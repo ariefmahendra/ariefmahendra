@@ -22,6 +22,14 @@ Here are some ideas to get you started:
 
 ### Recent Repositories
 <div align=center>
+<a href="https://github.com/ariefmahendra/100day-leetcode-go">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ariefmahendra&repo=100day-leetcode-go&theme=tokyonight" />
+</a>
+</div>
+
+</br>
+
+<div align=center>
 <a href="https://github.com/ariefmahendra/booking_room_app">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ariefmahendra&repo=booking_room_app&theme=tokyonight" />
 </a>
