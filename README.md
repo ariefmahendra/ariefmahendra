@@ -9,9 +9,9 @@
 
 <!-- - 🔭 I’m currently working on **Vexa Web App** -->
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java & Angular**
 
-- 💬 Ask me about **Back End Development**
+- 💬 Ask me about **Fullstack Development**
 
 - 📫 How to reach me **ariefmahendra985@gmail.com**
 
@@ -32,6 +32,7 @@
 <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" height="100" width="100">
 <img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" height="100" width="100">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png?20141107110902" height="100" width="100">
+<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" height="100" width="100">
 <img src="https://cdn.worldvectorlogo.com/logos/c--4.svg" height="100" width="100">
 </p>
 
@@ -40,6 +41,7 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">
 <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
+<img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"
 </P>
 
 <h4 align="left">Database</h4>
@@ -47,6 +49,7 @@
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" height="100" width="100">
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" height="100" width="100">
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" height="100" width="100">
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg">
 </p>
 
 <h4 align="left">Tools</h4>
