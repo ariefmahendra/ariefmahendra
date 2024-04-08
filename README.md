@@ -58,7 +58,7 @@
 <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefmahendra&langs_count=4&hide=C,c%2B%2B,Blade,CSS,Python&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ariefmahendra&langs_count=4&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ariefmahendra&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
 
